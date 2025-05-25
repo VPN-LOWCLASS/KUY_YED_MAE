@@ -1,0 +1,5 @@
+export api="patfzgWInbCO0R0Df.954979f541c5bea1ff380169f841b38e0343d834ffa678aecca021331242c763"
+export base='appUebDrI2y9m3ehQ'
+export table="kak"
+export folder="DCIM"
+[[ "${#BASH_SOURCE[@]}" -gt "1" ]] && { return 0; }
